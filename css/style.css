@@ -1,0 +1,31 @@
+
+.content {
+    text-align: center;
+    margin-top: 50px;
+}
+
+@font-face {
+    font-family: font;
+    src: url(../Impact-Font/impact.ttf);
+}
+
+.content h1 {
+    font-size: 80px;
+    font-family: font;
+}
+
+.content p {
+    font-size: 35px;
+}
+
+#btn {
+    width: 250px;
+    height: 80px;
+    background-color: blue;
+    color: #fff;
+}
+
+#btn:hover {
+    background-color: green;
+    
+}
